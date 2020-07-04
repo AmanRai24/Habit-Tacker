@@ -13,8 +13,7 @@ A simple Web Application where you can Track your daily habits and you can also 
   
   Display the track of last 6 days where user can set a status if user completed,incompleted or none the status.
   
-##How to use:-
-
+## How to use:-
 1. Clone the project.
 2. Go to folder.
 3. Run following command.
